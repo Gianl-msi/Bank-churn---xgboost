@@ -6,5 +6,5 @@ For the credit card companies acquiring new customers is a lengthly and costly p
 2 - Once the model is perfected, the features tha lead the clients to leave business the most should be isolated. These features will help the finacial firm to approach those customer who will churn.
 
 # EDA 
-The dataset is available on kaggle (https://www.kaggle.com/sakshigoyal7/credit-card-customers). It consists of 10127 customers and 18 features and one column for the class. 
+The dataset is available on kaggle (https://www.kaggle.com/sakshigoyal7/credit-card-customers). It consists of 10127 customers and 18 features and one column for the class (current customer, churned customer). 
 
