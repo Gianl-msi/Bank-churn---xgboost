@@ -1,4 +1,4 @@
-# Backgroud - Problem Statement
+# Background - Problem Statement
 For the credit card companies acquiring new customers is a lengthly and costly process. Thus, customer's attrition is one the utmost interest of financial firms. To reduce attrition rate, one immediate solution is to engage those clients who are projected to churn with enticing offers such as discounts, rebates or other perks.
 
 # Tasks 
@@ -19,4 +19,4 @@ As expected the number of churned customer is significantly smaller than the num
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/dependent.png" width="300" height="300"/>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/marital%20status.png" width="300" height="300"/>
 
-# MODELING
+# Modeling
