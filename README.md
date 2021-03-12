@@ -8,4 +8,4 @@ For the credit card companies acquiring new customers is a lengthly and costly p
 # EDA 
 The dataset is available on kaggle (https://www.kaggle.com/sakshigoyal7/credit-card-customers). It consists of 10127 customers and 18 features and one column for the class (current customer, churned customer). 
 
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/pie2.png" width="900" height="300"/>
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/pie2.png" width="300" height="300"/>
