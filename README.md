@@ -13,3 +13,8 @@ The dataset is available on kaggle (https://www.kaggle.com/sakshigoyal7/credit-c
 As expected the number of churned customer is significantly smaller than the number of those who didn't churn.
 
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/age.png" width="300" height="300"/>
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/contacts.png" width="300" height="300"/>
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/credit_limit.png" width="300" height="300"/>
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/gender.png" width="300" height="300"/>
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/dependent.png" width="300" height="300"/>
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/marital%20status.png" width="300" height="300"/>
