@@ -25,6 +25,6 @@ As expected the number of churned customers is significantly smaller than the nu
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary.png" width="400" height="400"/>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary_x_test.png" width="400" height="400"/>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/force_plot%20negative.png" width="800" height="100"/>
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/force_plot%20positive.png" width="300" height="300"/>
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/missclas-1.png" width="300" height="300"/>
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/missclas-2.png" width="300" height="300"/>
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/force_plot%20positive.png" width="800" height="100"/>
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/missclas-1.png" width="800" height="100"/>
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/missclas-2.png" width="800" height="100"/>
