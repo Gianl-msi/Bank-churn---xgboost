@@ -10,8 +10,7 @@ The dataset is available on kaggle (https://www.kaggle.com/sakshigoyal7/credit-c
 
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/pie2.png" width="300" height="300"/>
 
-The figure above the distribution of
-As expected the number of churned customers is significantly smaller than the number of those who didn't churn.
+The figure above shows that, expected, the number of churned customers is significantly smaller than the number of those who didn't churn.
 
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/age.png" width="300" height="300"/>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/contacts.png" width="300" height="300"/>
