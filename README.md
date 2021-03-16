@@ -33,6 +33,23 @@ The figure below shows all how the features are related to each other.
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/corr_png1.PNG" width="900" height="180"/>
 
 # Modeling
+## 1 - Vanilla Xgboost, NO GRID SEARCH 
+The first xgeboost model trained utilized the default value for all the parameters. THe trained model generated 40 false negatives and 24 false positives.
+Recall, F1 score and balance accuracy were 0.88, 0.90,0.93 respectively.
+## 2 - Vanilla Xgboost, WITH GRID SEARCH 
+Next we implemented gridsearch to find the best parameters, which were found to be:
+gamma: 1, learning_rate: 0.4, max_depth: 4, reg_lambda: 0.25.
+The tuned model generated 41 false negatives and 21 false positives. Recall, F1 score and balance accuracy were 0.87, 0.90, 0.93 respectively.
+### Tuning of the positive class weight
+Recall is the main metric we look at in this sort of problem. We could increase recall (thus dereasing FN) by increasing the scale_pos_weight parameters. However, we can let the number of false positive to explode, also. 
+The ideal compromise sits where the total monetary loss of the firm is the minimun: this is equal to the sum of acquiring cost of the clients who left plus the cost of offers/deals/perks given away to maintain the clients. According to a marketing report of 2019, acquiring a new customer costs around 80 dollars. 
+For the sake of this project we assume that the average cost of approaching a client with offers to discourage him/her from leaving the firm is 20 dollars per client. Thus, losing a customer is 4 times more expensive than enticing him/her to stay.
+
+<p float="left">
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Recall%20F1.png" width="400" height="400"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/FN%20FP%20Cost.png" width="400" height="400"/>
+</p>
+
 
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary.png" width="400" height="400"/>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary_x_test.png" width="400" height="400"/>
