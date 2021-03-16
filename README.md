@@ -19,10 +19,12 @@ The figure above shows that, as expected, the number of churned customers is sig
 </p>
 There is no a clear connection between the age, sex and number of dependents of the client and the orobability of churning.
 Meanwhile, it seems clients who are married or signed up for more services are less prone to churn.   
-<p float="left>
-  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Relationship.png" width="280" height="280"/>
+
+<p float="left">
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/marital%20status.png" width="280" height="280"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Relationship.png" width="280" height="280"/>
 </p>
+                                                                                                                              
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Relationship.png" width="280" height="280"/>
 # Modeling
 
