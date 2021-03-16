@@ -21,7 +21,7 @@ There is no a clear connection between the age, sex and number of dependents of 
 Meanwhile, it seems clients who are married or signed up for more services are less prone to churn.   
 <p float = "left>
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Relationship.png" width="280" height="280"/>
-  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/marital%20status.png" width="280" height="280"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/marital%20status.png width="280" height="280"/>
 </p>
 
 # Modeling
