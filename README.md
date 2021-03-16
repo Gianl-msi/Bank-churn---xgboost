@@ -26,7 +26,7 @@ Meanwhile, it seems clients who are married or signed up for more services are l
 </p>
 
 The figure below shows all how the features are related to each other.
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/corr_png1.PNG" width="750" height="150"/>
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/corr_png1.PNG" width="900" height="180"/>
 
 # Modeling
 
