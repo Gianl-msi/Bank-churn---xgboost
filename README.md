@@ -57,8 +57,17 @@ To detemine which features have the highest imapact in the predictions we utiliz
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary.png" width="300" height="300"/>
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary_x_test.png" width="300" height="300"/>
 <\p>
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/force_plot%20negative.png" width="800" height="100"/>
+  
+**Key takeaways:**
+- higher total_trans_ct, the lower the probability the customer churns
+- higher the transaction amount, the higher the probability the customer churns
+- higher the change for the Q4-Q1, the lower the probability the customer churns
+
+It was interesting to note that the more the client is contacted, the higher the chance he/she will churn. We cannot establish the direction of this phenomenon. Clients who churned were approached more often because they were predicted to cancel some services in the future or to solve issues. It is also possible that contacting the customers too much may annoying them to the point they decide to cut ties with the firm. 
+
+Finally, below we reported the force plot prediction for a True Positive, a True Negative, a False Negative and a False Positive.
+  
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/force_plot%20positive.png" width="800" height="100"/>
-The force plots below refer to two false negative predictions. 
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/force_plot%20negative.png" width="800" height="100"/>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/missclas-1.png" width="800" height="100"/>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/missclas-2.png" width="800" height="100"/>
