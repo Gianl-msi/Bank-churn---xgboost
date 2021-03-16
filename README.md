@@ -45,6 +45,7 @@ Recall is the main metric we look at in this sort of problem. We could increase 
 The ideal compromise sits where the total monetary loss of the firm is the minimun: this is equal to the sum of acquiring cost of the clients who left plus the cost of offers/deals/perks given away to maintain the clients. According to a marketing report of 2019, acquiring a new customer costs around 80 dollars. 
 For the sake of this project we assume that the average cost of approaching a client with offers to discourage him/her from leaving the firm is 20 dollars per client. Thus, losing a customer is 4 times more expensive than enticing him/her to stay.
 
+As show below, the minimuc cost is reached when scale_pos_weight is equal to 11. With this value, the number of false negatives and false positives, is 13 and 52 respectively.
 <p float="left">
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Recall%20F1.png" width="400" height="400"/>
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/FN%20FP%20Cost.png" width="400" height="400"/>
