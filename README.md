@@ -12,6 +12,10 @@ The dataset is available on kaggle (https://www.kaggle.com/sakshigoyal7/credit-c
 
 The figure above shows that, expected, the number of churned customers is significantly smaller than the number of those who didn't churn.
 
+<p float="left">
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/age.png" width="300" height="300"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/contacts.png" width="300" height="300"/>
+</p>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/age.png" width="300" height="300"/ src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/contacts.png" width="300" height="300"/>
 
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/contacts.png" width="300" height="300"/>
