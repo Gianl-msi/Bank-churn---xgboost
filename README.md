@@ -51,6 +51,7 @@ As show below, the minimuc cost is reached when scale_pos_weight is equal to 11.
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/FN%20FP%20Cost.png" width="400" height="400"/>
 </p>
 
+## Features' importance
 
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary.png" width="400" height="400"/>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary_x_test.png" width="400" height="400"/>
