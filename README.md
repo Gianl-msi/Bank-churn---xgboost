@@ -23,7 +23,7 @@ Meanwhile, it seems clients who are married or signed up for more services are l
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Relationship.png" width="280" height="280"/>
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/marital%20status.png" width="280" height="280"/>
 </p>
-
+<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Relationship.png" width="280" height="280"/>
 # Modeling
 
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary.png" width="400" height="400"/>
