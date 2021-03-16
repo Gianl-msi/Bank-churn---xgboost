@@ -25,7 +25,11 @@ Meanwhile, it seems clients who are married or signed up for more services are l
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Relationship.png" width="280" height="280"/>
 </p>
 
-The figure below shows all how the features are related to each other.
+The figure below shows all how the features are related to each other. 
+- Age of the customer of the age is positivelly correlated to how long he/she has been a customer.
+- The higher the number of transactions, the higher the total transaction amount
+- The higher the balance, the higher the average utilization ratio.
+
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/corr_png1.PNG" width="900" height="180"/>
 
 # Modeling
