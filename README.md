@@ -48,13 +48,15 @@ For the sake of this project we assume that the average cost of approaching a cl
 As show below, the minimuc cost is reached when scale_pos_weight is equal to 11. With this value, the number of false negatives and false positives, is 13 and 52 respectively.
 <p float="left">
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Recall%20F1.png" width="400" height="400"/>
-  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/FN%20FP%20Cost.png" width="400" height="400"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/FN%20FP%20Cost2.png" width="400" height="400"/>
 </p>
 
 ## Features' importance
-
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary.png" width="400" height="400"/>
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary_x_test.png" width="400" height="400"/>
+To detemine which features have the highest imapact in the predictions we utilized the SHAP library.
+<p float="left">
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary.png" width="300" height="300"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/summary_x_test.png" width="300" height="300"/>
+<\p>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/force_plot%20negative.png" width="800" height="100"/>
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/force_plot%20positive.png" width="800" height="100"/>
 The force plots below refer to two false negative predictions. 
