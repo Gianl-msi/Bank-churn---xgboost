@@ -10,20 +10,19 @@ The dataset is available on kaggle (https://www.kaggle.com/sakshigoyal7/credit-c
 
 <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/pie2.png" width="300" height="300"/>
 
-The figure above shows that, expected, the number of churned customers is significantly smaller than the number of those who didn't churn.
+The figure above shows that, as expected, the number of churned customers is significantly smaller than the number of those who didn't churn.
 
 <p float="left">
   <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/age.png" width="300" height="300"/>
-  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/contacts.png" width="300" height="300"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/gender.png" width="300" height="300"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/dependent.png" width="300" height="300"/>
 </p>
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/age.png" width="300" height="300"/ src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/contacts.png" width="300" height="300"/>
-
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/contacts.png" width="300" height="300"/>
-There is no a clear connection between the age, sex of the client and the orobability of churning.
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/credit_limit.png" width="300" height="300"/>
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/gender.png" width="300" height="300"/>
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/dependent.png" width="300" height="300"/>
-<img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/marital%20status.png" width="300" height="300"/>
+There is no a clear connection between the age, sex and number of dependents of the client and the orobability of churning.
+Meanwhile, it seems clients who are married or signed up for more services are less prone to churn.   
+<p float = "left>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Relationship.png" width="300" height="300"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/marital%20status.png" width="300" height="300"/>
+</p>
 
 # Modeling
 
