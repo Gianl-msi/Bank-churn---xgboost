@@ -13,15 +13,15 @@ The dataset is available on kaggle (https://www.kaggle.com/sakshigoyal7/credit-c
 The figure above shows that, as expected, the number of churned customers is significantly smaller than the number of those who didn't churn.
 
 <p float="left">
-  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/age.png" width="300" height="300"/>
-  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/gender.png" width="300" height="300"/>
-  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/dependent.png" width="300" height="300"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/age.png" width="280" height="280"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/gender.png" width="280" height="280"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/dependent.png" width="280" height="280"/>
 </p>
 There is no a clear connection between the age, sex and number of dependents of the client and the orobability of churning.
 Meanwhile, it seems clients who are married or signed up for more services are less prone to churn.   
 <p float = "left>
-  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Relationship.png" width="300" height="300"/>
-  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/marital%20status.png" width="300" height="300"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/Relationship.png" width="280" height="280"/>
+  <img src="https://github.com/Gianl-msi/Bank-churn---xgboost/blob/main/Figures/marital%20status.png" width="280" height="280"/>
 </p>
 
 # Modeling
